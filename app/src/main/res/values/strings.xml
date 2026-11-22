@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cidadeemfoco</string>
+
+    <string-array name="categorias_ocorrencia">
+        <item>Selecione uma categoria</item>
+        <item>Buraco na via</item>
+        <item>Iluminação pública</item>
+        <item>Descarte irregular de lixo</item>
+        <item>Alagamento</item>
+        <item>Saneamento</item>
+        <item>Sinalização danificada</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
